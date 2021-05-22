@@ -1,1 +1,7 @@
 # Principle_of_Digital_Communication
+
+AWGN信道下的QPSK误码率性能
+
+瑞丽信道下的QPSK误码率性能
+
+LS信道下的接收机误码率性能
